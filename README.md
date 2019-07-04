@@ -20,7 +20,7 @@
 
 第九步：开发模式 npm run serve
 
-第十步：生产模式 npm run build ，把生成的代码放到/public 下，更名为vue-admin , 浏览器输入 api.hardphp.com/vue-admin ,账号admin，密码123456 即可。
+第十步：生产模式 npm run build ，把生成的代码放到/public 下，更名为vue-admin ,账号admin，密码123456 即可。
 
 
 
