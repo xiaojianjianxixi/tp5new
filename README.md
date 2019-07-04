@@ -14,7 +14,7 @@
 
 第六步：本地hosts文件配置域名api.hardphp.com（域名根据自己喜好，与vue-admin对应即可），然后指向/public目录即可。
 
-第七步：下载vue-admin 代码，下载地址：https://github.com/hardphp/vue-admin
+第七步：下载vue-admin 代码，下载地址：https://github.com/xiaojianjianxixi/vue-admin
 
 第八步：进入vue-admin 目录，依次npm install
 
