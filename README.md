@@ -1,9 +1,5 @@
 
-代码结构：
 
-![image](https://github.com/hardphp/tp5-api/blob/master/%E4%BB%A3%E7%A0%81%E7%BB%93%E6%9E%84.png)
-
-```
 部署步骤：
 
 第一步（已安装，可略过）：安装git ,下载地址：https://git-scm.com/download/win，然后把C:\Program Files\Git\bin设置环境变量path
@@ -12,7 +8,7 @@
 
 第三步（已安装，可略过）：安装npm install -g @vue/cli，参考https://cli.vuejs.org/zh/guide/installation.html
 
-第四步：下载tp5-api 代码，下载地址：https://github.com/hardphp/tp5-api
+第四步：下载tp5-api 代码，下载地址：https://github.com/xiaojianjianxixi/tp5new
 
 第五步：配置config/database.php 数据库信息
 
