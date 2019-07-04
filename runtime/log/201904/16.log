@@ -1,0 +1,54 @@
+---------------------------------------------------------------
+[ 2019-04-16T10:49:34+08:00 ] 0.0.0.0 GET localhost/tp5-api/public/index.php/admin/upload/upimage
+[运行时间：0.669370s] [吞吐率：1.49req/s] [内存消耗：2,622.05kb] [文件加载：57]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'upload',
+    2 => 'upimage',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.75 Chrome/73.0.3683.75 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=m264svlbedakfjd8l27nl9a9f3; language=zh; pgv_pvi=8455636992; pgv_si=s2155797504; vue_admin_template_token=admin-token; sidebarStatus=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Upload->upimage[ /opt/lampp/htdocs/tp5-api/application/admin/controller/Upload.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-16T10:49:44+08:00 ] 0.0.0.0 GET localhost/tp5-api/public/index.php
+[运行时间：0.162778s] [吞吐率：6.14req/s] [内存消耗：2,415.00kb] [文件加载：53]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.75 Chrome/73.0.3683.75 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=m264svlbedakfjd8l27nl9a9f3; language=zh; pgv_pvi=8455636992; pgv_si=s2155797504; vue_admin_template_token=admin-token; sidebarStatus=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /opt/lampp/htdocs/tp5-api/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File

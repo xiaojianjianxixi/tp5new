@@ -1,0 +1,111 @@
+---------------------------------------------------------------
+[ 2019-04-01T17:11:01+08:00 ] 0.0.0.0 GET localhost/tp5-api/public/
+[运行时间：0.017328s] [吞吐率：57.71req/s] [内存消耗：2,415.13kb] [文件加载：53]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.75 Chrome/73.0.3683.75 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/tp5-api/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=m264svlbedakfjd8l27nl9a9f3; Admin-Token=admin; language=zh; sidebarStatus=0; pgv_pvi=8455636992; pgv_si=s2155797504',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /opt/lampp/htdocs/tp5-api/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-01T17:29:22+08:00 ] 0.0.0.0 GET localhost/tp5-api/public/
+[运行时间：0.016457s] [吞吐率：60.76req/s] [内存消耗：2,415.12kb] [文件加载：53]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.75 Chrome/73.0.3683.75 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/tp5-api/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=m264svlbedakfjd8l27nl9a9f3; Admin-Token=admin; language=zh; sidebarStatus=0; pgv_pvi=8455636992; pgv_si=s2155797504',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /opt/lampp/htdocs/tp5-api/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-01T18:07:28+08:00 ] 0.0.0.0 GET localhost/tp5-api/public/
+[运行时间：0.016545s] [吞吐率：60.44req/s] [内存消耗：2,414.95kb] [文件加载：53]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.75 Chrome/73.0.3683.75 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=m264svlbedakfjd8l27nl9a9f3; language=zh; pgv_pvi=8455636992; pgv_si=s2155797504; sidebarStatus=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /opt/lampp/htdocs/tp5-api/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-01T18:08:10+08:00 ] 0.0.0.0 GET localhost/tp5-api/public/
+[运行时间：0.015123s] [吞吐率：66.12req/s] [内存消耗：2,415.10kb] [文件加载：53]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.75 Chrome/73.0.3683.75 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=m264svlbedakfjd8l27nl9a9f3; language=zh; pgv_pvi=8455636992; pgv_si=s2155797504; sidebarStatus=0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /opt/lampp/htdocs/tp5-api/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File

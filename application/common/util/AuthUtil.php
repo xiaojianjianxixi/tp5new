@@ -41,6 +41,7 @@ class AuthUtil
             //数组排序
             ksort($param);
             $str        = http_build_query($param);
+
             $signature1 = md5(sha1($str) . $app['appSecret']);
 
             if ($signature != $signature1) {

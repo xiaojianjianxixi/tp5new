@@ -1,0 +1,9 @@
+---------------------------------------------------------------
+[ 2019-04-04T09:49:50+08:00 ] 127.0.0.1 POST localhost/tp5-api/public/api/login
+[ error ] [10101]签名参数缺失[/opt/lampp/htdocs/tp5-api/application/common.php:182]
+---------------------------------------------------------------
+[ 2019-04-04T11:15:31+08:00 ] 127.0.0.1 POST localhost/tp5-api/public/index.php/admin/login/index
+[ error ] [10303]用户密码错误[/opt/lampp/htdocs/tp5-api/application/common.php:182]
+---------------------------------------------------------------
+[ 2019-04-04T14:14:59+08:00 ] 0.0.0.0 GET localhost/tp5-api/public/index.php/index/test/getdata
+[ error ] [8]未定义数组索引: url[/opt/lampp/htdocs/tp5-api/application/index/controller/Test.php:31]

@@ -1,0 +1,713 @@
+---------------------------------------------------------------
+[ 2019-04-30T16:12:32+08:00 ] 0.0.0.0 GET localhost/tp5-api/public/uploads/images/20190430/ed12736043437569c1db25db6129bd07.jpeg
+[运行时间：0.255987s] [吞吐率：3.91req/s] [内存消耗：2,341.12kb] [文件加载：53]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => 'images',
+    2 => '20190430',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.86 Chrome/73.0.3683.86 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=8455636992; Admin-Token=5C70EF4EB379EE860AC22ABA1D532570MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ-nv8l5YrmJt7aIheBxpbpkeoe8pY5hfaZ_qbzRqKqGdn3bxoiY3oq3toOSu6CBr5ycir1soJGJaqWsvKuwkYmcic_HZXerjbShdg; sidebarStatus=1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-30T16:12:34+08:00 ] 0.0.0.0 GET localhost/tp5-api/public/uploads/images/20190430/ed12736043437569c1db25db6129bd07.jpeg
+[运行时间：0.014496s] [吞吐率：68.98req/s] [内存消耗：2,341.13kb] [文件加载：53]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => 'images',
+    2 => '20190430',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.86 Chrome/73.0.3683.86 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=8455636992; Admin-Token=5C70EF4EB379EE860AC22ABA1D532570MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ-nv8l5YrmJt7aIheBxpbpkeoe8pY5hfaZ_qbzRqKqGdn3bxoiY3oq3toOSu6CBr5ycir1soJGJaqWsvKuwkYmcic_HZXerjbShdg; sidebarStatus=1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-30T16:12:34+08:00 ] 0.0.0.0 GET localhost/tp5-api/public/uploads/images/20190430/ed12736043437569c1db25db6129bd07.jpeg
+[运行时间：0.019712s] [吞吐率：50.73req/s] [内存消耗：2,341.13kb] [文件加载：53]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => 'images',
+    2 => '20190430',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.86 Chrome/73.0.3683.86 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=8455636992; Admin-Token=5C70EF4EB379EE860AC22ABA1D532570MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ-nv8l5YrmJt7aIheBxpbpkeoe8pY5hfaZ_qbzRqKqGdn3bxoiY3oq3toOSu6CBr5ycir1soJGJaqWsvKuwkYmcic_HZXerjbShdg; sidebarStatus=1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-30T16:14:11+08:00 ] 0.0.0.0 GET localhost/tp5-api/public/uploads/images/20190430/ed12736043437569c1db25db6129bd07.jpeg
+[运行时间：0.018800s] [吞吐率：53.19req/s] [内存消耗：2,341.55kb] [文件加载：53]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => 'images',
+    2 => '20190430',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.86 Chrome/73.0.3683.86 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=8455636992; Admin-Token=5C70EF4EB379EE860AC22ABA1D532570MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ-nv8l5YrmJt7aIheBxpbpkeoe8pY5hfaZ_qbzRqKqGdn3bxoiY3oq3toOSu6CBr5ycir1soJGJaqWsvKuwkYmcic_HZXerjbShdg; sidebarStatus=1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-30T16:14:11+08:00 ] 0.0.0.0 GET localhost/tp5-api/public/uploads/images/20190430/ed12736043437569c1db25db6129bd07.jpeg
+[运行时间：0.027888s] [吞吐率：35.86req/s] [内存消耗：2,341.55kb] [文件加载：53]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => 'images',
+    2 => '20190430',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.86 Chrome/73.0.3683.86 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=8455636992; Admin-Token=5C70EF4EB379EE860AC22ABA1D532570MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ-nv8l5YrmJt7aIheBxpbpkeoe8pY5hfaZ_qbzRqKqGdn3bxoiY3oq3toOSu6CBr5ycir1soJGJaqWsvKuwkYmcic_HZXerjbShdg; sidebarStatus=1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-30T16:14:31+08:00 ] 0.0.0.0 GET localhost/tp5-api/public/uploads/images/20190430/ed12736043437569c1db25db6129bd07.jpeg
+[运行时间：0.019917s] [吞吐率：50.21req/s] [内存消耗：2,341.17kb] [文件加载：53]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => 'images',
+    2 => '20190430',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.86 Chrome/73.0.3683.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=8455636992; Admin-Token=5C70EF4EB379EE860AC22ABA1D532570MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ-nv8l5YrmJt7aIheBxpbpkeoe8pY5hfaZ_qbzRqKqGdn3bxoiY3oq3toOSu6CBr5ycir1soJGJaqWsvKuwkYmcic_HZXerjbShdg; sidebarStatus=1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-30T16:16:06+08:00 ] 0.0.0.0 GET localhost/tp5-api/public/images/20190430/ed12736043437569c1db25db6129bd07.jpeg
+[运行时间：0.016182s] [吞吐率：61.80req/s] [内存消耗：2,341.39kb] [文件加载：53]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'images',
+    1 => '20190430',
+    2 => 'ed12736043437569c1db25db6129bd07.jpeg',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.86 Chrome/73.0.3683.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=8455636992; Admin-Token=5C70EF4EB379EE860AC22ABA1D532570MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ-nv8l5YrmJt7aIheBxpbpkeoe8pY5hfaZ_qbzRqKqGdn3bxoiY3oq3toOSu6CBr5ycir1soJGJaqWsvKuwkYmcic_HZXerjbShdg; sidebarStatus=1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-30T16:16:24+08:00 ] 0.0.0.0 GET localhost/tp5-api/public/uploads/images/20190430/ed12736043437569c1db25db6129bd07.jpeg
+[运行时间：0.019455s] [吞吐率：51.40req/s] [内存消耗：2,341.17kb] [文件加载：53]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => 'images',
+    2 => '20190430',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.86 Chrome/73.0.3683.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=8455636992; Admin-Token=5C70EF4EB379EE860AC22ABA1D532570MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ-nv8l5YrmJt7aIheBxpbpkeoe8pY5hfaZ_qbzRqKqGdn3bxoiY3oq3toOSu6CBr5ycir1soJGJaqWsvKuwkYmcic_HZXerjbShdg; sidebarStatus=1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-30T16:16:42+08:00 ] 0.0.0.0 GET localhost/tp5-api/public/uploads/images/20190430/ed12736043437569c1db25db6129bd07.jpeg
+[运行时间：0.015105s] [吞吐率：66.20req/s] [内存消耗：2,341.55kb] [文件加载：53]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => 'images',
+    2 => '20190430',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.86 Chrome/73.0.3683.86 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=8455636992; Admin-Token=5C70EF4EB379EE860AC22ABA1D532570MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ-nv8l5YrmJt7aIheBxpbpkeoe8pY5hfaZ_qbzRqKqGdn3bxoiY3oq3toOSu6CBr5ycir1soJGJaqWsvKuwkYmcic_HZXerjbShdg; sidebarStatus=1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-30T16:16:42+08:00 ] 0.0.0.0 GET localhost/tp5-api/public/uploads/images/20190430/ed12736043437569c1db25db6129bd07.jpeg
+[运行时间：0.016418s] [吞吐率：60.91req/s] [内存消耗：2,341.55kb] [文件加载：53]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => 'images',
+    2 => '20190430',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.86 Chrome/73.0.3683.86 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=8455636992; Admin-Token=5C70EF4EB379EE860AC22ABA1D532570MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ-nv8l5YrmJt7aIheBxpbpkeoe8pY5hfaZ_qbzRqKqGdn3bxoiY3oq3toOSu6CBr5ycir1soJGJaqWsvKuwkYmcic_HZXerjbShdg; sidebarStatus=1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-30T16:17:14+08:00 ] 0.0.0.0 GET localhost/tp5-api/public/uploads/images/20190430/ed12736043437569c1db25db6129bd07.jpeg
+[运行时间：0.019839s] [吞吐率：50.41req/s] [内存消耗：2,341.55kb] [文件加载：53]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => 'images',
+    2 => '20190430',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.86 Chrome/73.0.3683.86 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=8455636992; Admin-Token=5C70EF4EB379EE860AC22ABA1D532570MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ-nv8l5YrmJt7aIheBxpbpkeoe8pY5hfaZ_qbzRqKqGdn3bxoiY3oq3toOSu6CBr5ycir1soJGJaqWsvKuwkYmcic_HZXerjbShdg; sidebarStatus=1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-30T16:17:17+08:00 ] 0.0.0.0 GET localhost/tp5-api/public/uploads/images/20190430/ed12736043437569c1db25db6129bd07.jpeg
+[运行时间：0.024352s] [吞吐率：41.06req/s] [内存消耗：2,341.55kb] [文件加载：53]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => 'images',
+    2 => '20190430',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.86 Chrome/73.0.3683.86 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=8455636992; Admin-Token=5C70EF4EB379EE860AC22ABA1D532570MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ-nv8l5YrmJt7aIheBxpbpkeoe8pY5hfaZ_qbzRqKqGdn3bxoiY3oq3toOSu6CBr5ycir1soJGJaqWsvKuwkYmcic_HZXerjbShdg; sidebarStatus=1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-30T16:17:17+08:00 ] 0.0.0.0 GET localhost/tp5-api/public/uploads/images/20190430/ed12736043437569c1db25db6129bd07.jpeg
+[运行时间：0.019667s] [吞吐率：50.85req/s] [内存消耗：2,341.55kb] [文件加载：53]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => 'images',
+    2 => '20190430',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.86 Chrome/73.0.3683.86 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=8455636992; Admin-Token=5C70EF4EB379EE860AC22ABA1D532570MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ-nv8l5YrmJt7aIheBxpbpkeoe8pY5hfaZ_qbzRqKqGdn3bxoiY3oq3toOSu6CBr5ycir1soJGJaqWsvKuwkYmcic_HZXerjbShdg; sidebarStatus=1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-30T16:18:28+08:00 ] 0.0.0.0 GET localhost/tp5-api/public/api/uploads/images/20190430/33493d2b9571afd684ac67a6d1948cae.jpeg
+[运行时间：0.043899s] [吞吐率：22.78req/s] [内存消耗：2,410.80kb] [文件加载：54]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'uploads',
+    2 => 'images',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.86 Chrome/73.0.3683.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=8455636992; Admin-Token=5C70EF4EB379EE860AC22ABA1D532570MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ-nv8l5YrmJt7aIheBxpbpkeoe8pY5hfaZ_qbzRqKqGdn3bxoiY3oq3toOSu6CBr5ycir1soJGJaqWsvKuwkYmcic_HZXerjbShdg; sidebarStatus=1',
+)
+[ info ] [ PARAM ] array (
+  0 => '33493d2b9571afd684ac67a6d1948cae.jpeg',
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-30T16:18:49+08:00 ] 0.0.0.0 GET localhost/tp5-api/public/uploads/images/20190430/33493d2b9571afd684ac67a6d1948cae.jpeg
+[运行时间：0.016412s] [吞吐率：60.93req/s] [内存消耗：2,341.17kb] [文件加载：53]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => 'images',
+    2 => '20190430',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.86 Chrome/73.0.3683.86 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=8455636992; Admin-Token=5C70EF4EB379EE860AC22ABA1D532570MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ-nv8l5YrmJt7aIheBxpbpkeoe8pY5hfaZ_qbzRqKqGdn3bxoiY3oq3toOSu6CBr5ycir1soJGJaqWsvKuwkYmcic_HZXerjbShdg; sidebarStatus=1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-30T17:18:26+08:00 ] 0.0.0.0 GET localhost/tp5-api/public/uploads/images/20190430/ed12736043437569c1db25db6129bd07.jpeg
+[运行时间：0.014823s] [吞吐率：67.46req/s] [内存消耗：2,341.55kb] [文件加载：53]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => 'images',
+    2 => '20190430',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.86 Chrome/73.0.3683.86 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=8455636992; Admin-Token=5C70EF4EB379EE860AC22ABA1D532570MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ-nv8l5YrmJt7aIheBxpbpkeoe8pY5hfaZ_qbzRqKqGdn3bxoiY3oq3toOSu6CBr5ycir1soJGJaqWsvKuwkYmcic_HZXerjbShdg; sidebarStatus=1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-30T17:18:26+08:00 ] 0.0.0.0 GET localhost/tp5-api/public/uploads/images/20190430/ed12736043437569c1db25db6129bd07.jpeg
+[运行时间：0.019170s] [吞吐率：52.17req/s] [内存消耗：2,341.55kb] [文件加载：53]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => 'images',
+    2 => '20190430',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.86 Chrome/73.0.3683.86 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=8455636992; Admin-Token=5C70EF4EB379EE860AC22ABA1D532570MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ-nv8l5YrmJt7aIheBxpbpkeoe8pY5hfaZ_qbzRqKqGdn3bxoiY3oq3toOSu6CBr5ycir1soJGJaqWsvKuwkYmcic_HZXerjbShdg; sidebarStatus=1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-30T17:18:27+08:00 ] 0.0.0.0 GET localhost/tp5-api/public/uploads/images/20190430/ed12736043437569c1db25db6129bd07.jpeg
+[运行时间：0.022950s] [吞吐率：43.57req/s] [内存消耗：2,341.55kb] [文件加载：53]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => 'images',
+    2 => '20190430',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.86 Chrome/73.0.3683.86 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=8455636992; Admin-Token=5C70EF4EB379EE860AC22ABA1D532570MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ-nv8l5YrmJt7aIheBxpbpkeoe8pY5hfaZ_qbzRqKqGdn3bxoiY3oq3toOSu6CBr5ycir1soJGJaqWsvKuwkYmcic_HZXerjbShdg; sidebarStatus=1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-30T17:18:36+08:00 ] 0.0.0.0 GET localhost/tp5-api/public/uploads/images/20190430/d33f3ee0c676968d762d12c4ae93406b.jpg
+[运行时间：0.021880s] [吞吐率：45.70req/s] [内存消耗：2,341.57kb] [文件加载：53]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => 'images',
+    2 => '20190430',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.86 Chrome/73.0.3683.86 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=8455636992; Admin-Token=5C70EF4EB379EE860AC22ABA1D532570MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ-nv8l5YrmJt7aIheBxpbpkeoe8pY5hfaZ_qbzRqKqGdn3bxoiY3oq3toOSu6CBr5ycir1soJGJaqWsvKuwkYmcic_HZXerjbShdg; sidebarStatus=1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-30T17:18:38+08:00 ] 0.0.0.0 GET localhost/tp5-api/public/uploads/images/20190430/d33f3ee0c676968d762d12c4ae93406b.jpg
+[运行时间：0.016257s] [吞吐率：61.51req/s] [内存消耗：2,341.57kb] [文件加载：53]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => 'images',
+    2 => '20190430',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.86 Chrome/73.0.3683.86 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=8455636992; Admin-Token=5C70EF4EB379EE860AC22ABA1D532570MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ-nv8l5YrmJt7aIheBxpbpkeoe8pY5hfaZ_qbzRqKqGdn3bxoiY3oq3toOSu6CBr5ycir1soJGJaqWsvKuwkYmcic_HZXerjbShdg; sidebarStatus=1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-30T17:18:38+08:00 ] 0.0.0.0 GET localhost/tp5-api/public/uploads/images/20190430/d33f3ee0c676968d762d12c4ae93406b.jpg
+[运行时间：0.023891s] [吞吐率：41.86req/s] [内存消耗：2,341.57kb] [文件加载：53]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => 'images',
+    2 => '20190430',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.86 Chrome/73.0.3683.86 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=8455636992; Admin-Token=5C70EF4EB379EE860AC22ABA1D532570MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ-nv8l5YrmJt7aIheBxpbpkeoe8pY5hfaZ_qbzRqKqGdn3bxoiY3oq3toOSu6CBr5ycir1soJGJaqWsvKuwkYmcic_HZXerjbShdg; sidebarStatus=1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-30T17:18:41+08:00 ] 0.0.0.0 GET localhost/tp5-api/public/uploads/images/20190430/ed12736043437569c1db25db6129bd07.jpeg
+[运行时间：0.014343s] [吞吐率：69.72req/s] [内存消耗：2,341.55kb] [文件加载：53]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => 'images',
+    2 => '20190430',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.86 Chrome/73.0.3683.86 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=8455636992; Admin-Token=5C70EF4EB379EE860AC22ABA1D532570MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ-nv8l5YrmJt7aIheBxpbpkeoe8pY5hfaZ_qbzRqKqGdn3bxoiY3oq3toOSu6CBr5ycir1soJGJaqWsvKuwkYmcic_HZXerjbShdg; sidebarStatus=1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-30T17:18:41+08:00 ] 0.0.0.0 GET localhost/tp5-api/public/uploads/images/20190430/ed12736043437569c1db25db6129bd07.jpeg
+[运行时间：0.018086s] [吞吐率：55.29req/s] [内存消耗：2,341.55kb] [文件加载：53]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => 'images',
+    2 => '20190430',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.86 Chrome/73.0.3683.86 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=8455636992; Admin-Token=5C70EF4EB379EE860AC22ABA1D532570MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ-nv8l5YrmJt7aIheBxpbpkeoe8pY5hfaZ_qbzRqKqGdn3bxoiY3oq3toOSu6CBr5ycir1soJGJaqWsvKuwkYmcic_HZXerjbShdg; sidebarStatus=1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-30T17:19:53+08:00 ] 0.0.0.0 GET localhost/tp5-api/public/uploads/images/20190430/ed12736043437569c1db25db6129bd07.jpeg
+[运行时间：0.017936s] [吞吐率：55.75req/s] [内存消耗：2,341.55kb] [文件加载：53]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => 'images',
+    2 => '20190430',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.86 Chrome/73.0.3683.86 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=8455636992; Admin-Token=5C70EF4EB379EE860AC22ABA1D532570MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ-nv8l5YrmJt7aIheBxpbpkeoe8pY5hfaZ_qbzRqKqGdn3bxoiY3oq3toOSu6CBr5ycir1soJGJaqWsvKuwkYmcic_HZXerjbShdg; sidebarStatus=1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-30T17:19:53+08:00 ] 0.0.0.0 GET localhost/tp5-api/public/uploads/images/20190430/bbefc8c6e9e878b1274419b5435d8b6c.jpg
+[运行时间：0.023114s] [吞吐率：43.26req/s] [内存消耗：2,341.57kb] [文件加载：53]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => 'images',
+    2 => '20190430',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.86 Chrome/73.0.3683.86 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=8455636992; Admin-Token=5C70EF4EB379EE860AC22ABA1D532570MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ-nv8l5YrmJt7aIheBxpbpkeoe8pY5hfaZ_qbzRqKqGdn3bxoiY3oq3toOSu6CBr5ycir1soJGJaqWsvKuwkYmcic_HZXerjbShdg; sidebarStatus=1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-30T17:19:53+08:00 ] 0.0.0.0 GET localhost/tp5-api/public/uploads/images/20190430/ed12736043437569c1db25db6129bd07.jpeg
+[运行时间：0.024329s] [吞吐率：41.10req/s] [内存消耗：2,341.55kb] [文件加载：53]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'uploads',
+    1 => 'images',
+    2 => '20190430',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.86 Chrome/73.0.3683.86 Safari/537.36',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'pgv_pvi=8455636992; Admin-Token=5C70EF4EB379EE860AC22ABA1D532570MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ-nv8l5YrmJt7aIheBxpbpkeoe8pY5hfaZ_qbzRqKqGdn3bxoiY3oq3toOSu6CBr5ycir1soJGJaqWsvKuwkYmcic_HZXerjbShdg; sidebarStatus=1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File

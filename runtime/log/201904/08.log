@@ -1,0 +1,378 @@
+---------------------------------------------------------------
+[ 2019-04-08T15:07:08+08:00 ] 127.0.0.1 POST localhost/tp5-api/public/index.php/admin/login/index
+[运行时间：0.175980s] [吞吐率：5.68req/s] [内存消耗：4,624.25kb] [文件加载：78]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'login',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'x-forwarded-host' => 'localhost:8080',
+  'x-forwarded-proto' => 'http',
+  'x-forwarded-port' => '8080',
+  'x-forwarded-for' => '127.0.0.1',
+  'cookie' => 'PHPSESSID=m264svlbedakfjd8l27nl9a9f3; language=zh; pgv_pvi=8455636992; pgv_si=s2155797504; vue_admin_template_token=admin-token; sidebarStatus=0',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:8080/',
+  'content-type' => 'application/x-www-form-urlencoded;charset=UTF-8',
+  'x-access-appid' => 'ty9fd2848a039ab554',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.75 Chrome/73.0.3683.75 Safari/537.36',
+  'origin' => 'http://localhost:8080',
+  'accept' => 'application/json, text/plain, */*',
+  'content-length' => '73',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+  'userName' => 'admin',
+  'password' => '123456',
+  'signature' => 'fcac63765b8ac787d8ea6e16c87f3205',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Login->index[ /opt/lampp/htdocs/tp5-api/application/admin/controller/Login.php ]
+[ info ] [ CACHE ] INIT File
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-08T15:07:09+08:00 ] 127.0.0.1 POST localhost/tp5-api/public/index.php/admin/admin/getuser
+[运行时间：0.042622s] [吞吐率：23.46req/s] [内存消耗：4,615.12kb] [文件加载：77]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'admin',
+    2 => 'getuser',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'x-forwarded-host' => 'localhost:8080',
+  'x-forwarded-proto' => 'http',
+  'x-forwarded-port' => '8080',
+  'x-forwarded-for' => '127.0.0.1',
+  'cookie' => 'PHPSESSID=m264svlbedakfjd8l27nl9a9f3; language=zh; pgv_pvi=8455636992; pgv_si=s2155797504; vue_admin_template_token=admin-token; sidebarStatus=0; Admin-Token=482E81FAB3508F6AD5258876937D67E6MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ2Jz8hkZpqLu9CJi6pxpbSgoIHJpaCnkbOTsrKrqIyCiWfexnmD3YrPummcmIqIsIqUjr-jnGaDf6Wruc6fno2HaNuyfJSVhqShdg',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:8080/',
+  'content-type' => 'application/x-www-form-urlencoded;charset=UTF-8',
+  'x-access-appid' => 'ty9fd2848a039ab554',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.75 Chrome/73.0.3683.75 Safari/537.36',
+  'x-access-token' => '482E81FAB3508F6AD5258876937D67E6MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ2Jz8hkZpqLu9CJi6pxpbSgoIHJpaCnkbOTsrKrqIyCiWfexnmD3YrPummcmIqIsIqUjr-jnGaDf6Wruc6fno2HaNuyfJSVhqShdg',
+  'origin' => 'http://localhost:8080',
+  'accept' => 'application/json, text/plain, */*',
+  'content-length' => '42',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '37d7b5e3d72e32c75290100a102e0eb7',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Admin->getuser[ /opt/lampp/htdocs/tp5-api/application/admin/controller/Admin.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-08T15:16:30+08:00 ] 127.0.0.1 POST localhost/tp5-api/public/index.php/admin/admin/getuser
+[运行时间：0.042747s] [吞吐率：23.39req/s] [内存消耗：4,614.23kb] [文件加载：77]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'admin',
+    2 => 'getuser',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'x-forwarded-host' => 'localhost:8080',
+  'x-forwarded-proto' => 'http',
+  'x-forwarded-port' => '8080',
+  'x-forwarded-for' => '127.0.0.1',
+  'cookie' => 'PHPSESSID=m264svlbedakfjd8l27nl9a9f3; language=zh; pgv_pvi=8455636992; pgv_si=s2155797504; vue_admin_template_token=admin-token; sidebarStatus=0; Admin-Token=482E81FAB3508F6AD5258876937D67E6MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ2Jz8hkZpqLu9CJi6pxpbSgoIHJpaCnkbOTsrKrqIyCiWfexnmD3YrPummcmIqIsIqUjr-jnGaDf6Wruc6fno2HaNuyfJSVhqShdg',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:8080/',
+  'content-type' => 'application/x-www-form-urlencoded;charset=UTF-8',
+  'x-access-appid' => 'ty9fd2848a039ab554',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.75 Chrome/73.0.3683.75 Safari/537.36',
+  'x-access-token' => '482E81FAB3508F6AD5258876937D67E6MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ2Jz8hkZpqLu9CJi6pxpbSgoIHJpaCnkbOTsrKrqIyCiWfexnmD3YrPummcmIqIsIqUjr-jnGaDf6Wruc6fno2HaNuyfJSVhqShdg',
+  'origin' => 'http://localhost:8080',
+  'accept' => 'application/json, text/plain, */*',
+  'content-length' => '42',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '37d7b5e3d72e32c75290100a102e0eb7',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Admin->getuser[ /opt/lampp/htdocs/tp5-api/application/admin/controller/Admin.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-08T15:16:30+08:00 ] 192.168.1.18 GET localhost/tp5-api/public/index.php/sockjs-node/021/wqsghsow/websocket
+[运行时间：0.024794s] [吞吐率：40.33req/s] [内存消耗：2,341.90kb] [文件加载：53]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'sockjs-node',
+    1 => '021',
+    2 => 'wqsghsow',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'x-forwarded-proto' => 'ws',
+  'x-forwarded-port' => '8080',
+  'x-forwarded-for' => '192.168.1.18',
+  'sec-websocket-extensions' => 'permessage-deflate; client_max_window_bits',
+  'sec-websocket-key' => 'GY/qjII6AdX0eI1vCNnIlA==',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'sec-websocket-version' => '13',
+  'origin' => 'http://localhost:8080',
+  'upgrade' => 'websocket',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.75 Chrome/73.0.3683.75 Safari/537.36',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'Upgrade',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-08T15:16:31+08:00 ] 127.0.0.1 POST localhost/tp5-api/public/index.php/admin/admin/getuser
+[运行时间：0.034368s] [吞吐率：29.10req/s] [内存消耗：4,614.23kb] [文件加载：77]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'admin',
+    2 => 'getuser',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'x-forwarded-host' => 'localhost:8080',
+  'x-forwarded-proto' => 'http',
+  'x-forwarded-port' => '8080',
+  'x-forwarded-for' => '127.0.0.1',
+  'cookie' => 'PHPSESSID=m264svlbedakfjd8l27nl9a9f3; language=zh; pgv_pvi=8455636992; pgv_si=s2155797504; vue_admin_template_token=admin-token; sidebarStatus=0; Admin-Token=482E81FAB3508F6AD5258876937D67E6MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ2Jz8hkZpqLu9CJi6pxpbSgoIHJpaCnkbOTsrKrqIyCiWfexnmD3YrPummcmIqIsIqUjr-jnGaDf6Wruc6fno2HaNuyfJSVhqShdg',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:8080/',
+  'content-type' => 'application/x-www-form-urlencoded;charset=UTF-8',
+  'x-access-appid' => 'ty9fd2848a039ab554',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.75 Chrome/73.0.3683.75 Safari/537.36',
+  'x-access-token' => '482E81FAB3508F6AD5258876937D67E6MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ2Jz8hkZpqLu9CJi6pxpbSgoIHJpaCnkbOTsrKrqIyCiWfexnmD3YrPummcmIqIsIqUjr-jnGaDf6Wruc6fno2HaNuyfJSVhqShdg',
+  'origin' => 'http://localhost:8080',
+  'accept' => 'application/json, text/plain, */*',
+  'content-length' => '42',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '37d7b5e3d72e32c75290100a102e0eb7',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Admin->getuser[ /opt/lampp/htdocs/tp5-api/application/admin/controller/Admin.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-08T15:16:31+08:00 ] 192.168.1.18 GET localhost/tp5-api/public/index.php/sockjs-node/686/j255icmd/websocket
+[运行时间：0.019144s] [吞吐率：52.24req/s] [内存消耗：2,341.90kb] [文件加载：53]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'sockjs-node',
+    1 => '686',
+    2 => 'j255icmd',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'x-forwarded-proto' => 'ws',
+  'x-forwarded-port' => '8080',
+  'x-forwarded-for' => '192.168.1.18',
+  'sec-websocket-extensions' => 'permessage-deflate; client_max_window_bits',
+  'sec-websocket-key' => 'V/xxxtKLBkzpKayhFtcmlg==',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'sec-websocket-version' => '13',
+  'origin' => 'http://localhost:8080',
+  'upgrade' => 'websocket',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.75 Chrome/73.0.3683.75 Safari/537.36',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'Upgrade',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-08T15:16:32+08:00 ] 192.168.1.18 GET localhost/tp5-api/public/index.php/sockjs-node/644/nba3ta1a/websocket
+[运行时间：0.019425s] [吞吐率：51.48req/s] [内存消耗：2,341.90kb] [文件加载：53]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'sockjs-node',
+    1 => '644',
+    2 => 'nba3ta1a',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'x-forwarded-proto' => 'ws',
+  'x-forwarded-port' => '8080',
+  'x-forwarded-for' => '192.168.1.18',
+  'sec-websocket-extensions' => 'permessage-deflate; client_max_window_bits',
+  'sec-websocket-key' => 'u3jAaoFvDF7N2JKlc10d8g==',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'sec-websocket-version' => '13',
+  'origin' => 'http://localhost:8080',
+  'upgrade' => 'websocket',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.75 Chrome/73.0.3683.75 Safari/537.36',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'connection' => 'Upgrade',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-08T16:38:42+08:00 ] 127.0.0.1 POST localhost/tp5-api/public/index.php/admin/log/index
+[运行时间：0.034493s] [吞吐率：28.99req/s] [内存消耗：4,504.26kb] [文件加载：77]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'log',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'x-forwarded-host' => 'localhost:8080',
+  'x-forwarded-proto' => 'http',
+  'x-forwarded-port' => '8080',
+  'x-forwarded-for' => '127.0.0.1',
+  'cookie' => 'PHPSESSID=m264svlbedakfjd8l27nl9a9f3; language=zh; pgv_pvi=8455636992; pgv_si=s2155797504; vue_admin_template_token=admin-token; sidebarStatus=0; Admin-Token=482E81FAB3508F6AD5258876937D67E6MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ2Jz8hkZpqLu9CJi6pxpbSgoIHJpaCnkbOTsrKrqIyCiWfexnmD3YrPummcmIqIsIqUjr-jnGaDf6Wruc6fno2HaNuyfJSVhqShdg',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:8080/',
+  'content-type' => 'application/x-www-form-urlencoded;charset=UTF-8',
+  'x-access-appid' => 'ty9fd2848a039ab554',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.75 Chrome/73.0.3683.75 Safari/537.36',
+  'x-access-token' => '482E81FAB3508F6AD5258876937D67E6MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ2Jz8hkZpqLu9CJi6pxpbSgoIHJpaCnkbOTsrKrqIyCiWfexnmD3YrPummcmIqIsIqUjr-jnGaDf6Wruc6fno2HaNuyfJSVhqShdg',
+  'origin' => 'http://localhost:8080',
+  'accept' => 'application/json, text/plain, */*',
+  'content-length' => '102',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'psize' => '10',
+  'uid' => '',
+  'userName' => '',
+  'loginIp' => '',
+  'startTime' => '',
+  'endTime' => '',
+  'signature' => '08e1735cb5c347c5140ebe6d606befbc',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Log->index[ /opt/lampp/htdocs/tp5-api/application/admin/controller/Log.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-08T16:38:47+08:00 ] 127.0.0.1 POST localhost/tp5-api/public/index.php/admin/roles/index
+[运行时间：0.047591s] [吞吐率：21.01req/s] [内存消耗：4,542.60kb] [文件加载：77]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'roles',
+    2 => 'index',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'x-forwarded-host' => 'localhost:8080',
+  'x-forwarded-proto' => 'http',
+  'x-forwarded-port' => '8080',
+  'x-forwarded-for' => '127.0.0.1',
+  'cookie' => 'PHPSESSID=m264svlbedakfjd8l27nl9a9f3; language=zh; pgv_pvi=8455636992; pgv_si=s2155797504; vue_admin_template_token=admin-token; sidebarStatus=0; Admin-Token=482E81FAB3508F6AD5258876937D67E6MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ2Jz8hkZpqLu9CJi6pxpbSgoIHJpaCnkbOTsrKrqIyCiWfexnmD3YrPummcmIqIsIqUjr-jnGaDf6Wruc6fno2HaNuyfJSVhqShdg',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:8080/',
+  'content-type' => 'application/x-www-form-urlencoded;charset=UTF-8',
+  'x-access-appid' => 'ty9fd2848a039ab554',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.75 Chrome/73.0.3683.75 Safari/537.36',
+  'x-access-token' => '482E81FAB3508F6AD5258876937D67E6MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ2Jz8hkZpqLu9CJi6pxpbSgoIHJpaCnkbOTsrKrqIyCiWfexnmD3YrPummcmIqIsIqUjr-jnGaDf6Wruc6fno2HaNuyfJSVhqShdg',
+  'origin' => 'http://localhost:8080',
+  'accept' => 'application/json, text/plain, */*',
+  'content-length' => '75',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+  'page' => '1',
+  'psize' => '10',
+  'status' => '-1',
+  'title' => '',
+  'signature' => '39abfe8063320a276268531c5b5cdb25',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Roles->index[ /opt/lampp/htdocs/tp5-api/application/admin/controller/Roles.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-04-08T16:38:47+08:00 ] 127.0.0.1 POST localhost/tp5-api/public/index.php/admin/rules/getLists
+[运行时间：0.041484s] [吞吐率：24.11req/s] [内存消耗：4,437.83kb] [文件加载：75]
+[ info ] [ LANG ] /opt/lampp/htdocs/tp5-api/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'rules',
+    2 => 'getLists',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'x-forwarded-host' => 'localhost:8080',
+  'x-forwarded-proto' => 'http',
+  'x-forwarded-port' => '8080',
+  'x-forwarded-for' => '127.0.0.1',
+  'cookie' => 'PHPSESSID=m264svlbedakfjd8l27nl9a9f3; language=zh; pgv_pvi=8455636992; pgv_si=s2155797504; vue_admin_template_token=admin-token; sidebarStatus=0; Admin-Token=482E81FAB3508F6AD5258876937D67E6MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ2Jz8hkZpqLu9CJi6pxpbSgoIHJpaCnkbOTsrKrqIyCiWfexnmD3YrPummcmIqIsIqUjr-jnGaDf6Wruc6fno2HaNuyfJSVhqShdg',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate, br',
+  'referer' => 'http://localhost:8080/',
+  'content-type' => 'application/x-www-form-urlencoded;charset=UTF-8',
+  'x-access-appid' => 'ty9fd2848a039ab554',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/73.0.3683.75 Chrome/73.0.3683.75 Safari/537.36',
+  'x-access-token' => '482E81FAB3508F6AD5258876937D67E6MDAwMDAwMDAwML6Mna-FqrqSib2cgMOHoIC7o36CkY6xfLjQzqGGZIXVuGadr4u5um-LunZ_w4efabGmjmWDo3-gu5SsqIhkp6vHZJ3Ynau-moXTqGG4nZSnyX-ohIONk4a7qbuwiJ2Jz8hkZpqLu9CJi6pxpbSgoIHJpaCnkbOTsrKrqIyCiWfexnmD3YrPummcmIqIsIqUjr-jnGaDf6Wruc6fno2HaNuyfJSVhqShdg',
+  'origin' => 'http://localhost:8080',
+  'accept' => 'application/json, text/plain, */*',
+  'content-length' => '42',
+  'connection' => 'close',
+  'host' => 'localhost',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '37d7b5e3d72e32c75290100a102e0eb7',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ RUN ] app\admin\controller\Rules->getLists[ /opt/lampp/htdocs/tp5-api/application/admin/controller/Rules.php ]
+[ info ] [ LOG ] INIT File

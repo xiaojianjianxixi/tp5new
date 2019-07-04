@@ -32,7 +32,7 @@
 				  </div>
 				  <div class="col-md-4">
 					  <div class="form-group">
-						<input type="text" class="form-control" id="url" name="url"  value="http://api.hardphp.com/index.php" autocomplete="off" placeholder="根地址">
+						<input type="text" class="form-control" id="url" name="url"  value="http://localhost/tp5-api/public/index.php" autocomplete="off" placeholder="根地址">
 					  </div>
 				  </div>
 				  <div class="col-md-4">
@@ -154,7 +154,7 @@
 			
     		$.ajax({
 				type:method,
-				url:'http://api.hardphp.com/index.php/index/test/getdata',
+				url:'http://localhost/tp5-api/public/index.php/index/test/getdata',
 				data:$('#form').serialize(), 
 				dataType:'json',
 				success:success
@@ -173,7 +173,7 @@
 		$('.addsign').click(function(){
 			 
 			$.post(
-				"http://api.hardphp.com/index.php/index/test/index",
+				"http://localhost/tp5-api/public/index.php/index/test/index",
 				$('#form').serialize(),
 				function(data){
 					if(data.status){

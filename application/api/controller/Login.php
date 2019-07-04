@@ -12,14 +12,18 @@ class Login extends Base
      */
     public function index()
     {
+
         if ($this->request->isPost()) {
             //接收数据
             $data     = [
                 'phone'    => input('phone', '', 'trim'),
                 'password' => input('password', '', 'trim')
             ];
+
             $validate = my_validate('User', 'user');
+            $validate->scene('login');
             $result   = $validate->scene('login')->check($data);
+   
             if (!$result) {
                 $error = $validate->getError();
                 ajax_return_error($error);
@@ -35,6 +39,7 @@ class Login extends Base
      */
     public function index2()
     {
+
         if ($this->request->isPost()) {
             //接收数据
             $data     = [
